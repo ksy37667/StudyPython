@@ -1,13 +1,13 @@
 # basic_python
 
-1. Class, Instance, Static Variable, Method
+Chapter 1. Class, Instance, Static Variable, Method
 
-2. Data Model
+Chapter 2. Data Model
 
-3. Sequence(list, tuple, dictionary, set)
+Chapter 3. Sequence(list, tuple, dictionary, set)
 
-4. First-class Functions
+Chapter 4. First-class Functions
 
-5. Object Reference
+Chapter 5. Object Reference
 
-6. Concurrency 
+Chapter 6. Concurrency 
